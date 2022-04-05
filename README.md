@@ -4,6 +4,8 @@
   <p> 🌈
   </h1>
       <p> Hola! Mi nombre es Javier Felipe Ibarra y soy estudiante de 5to semestre de ingeniería química 👨🏼‍🔬 en la Universidad EAN 💚 en Bogotá - Colombia 🇨🇴
+        <div align="center">
+    <img alt="png" src="https://github.com/Jafeibso/Jafeibso/blob/main/me.png" width="550" height="250" /> </div>
        <div align="center">
 Aparte de ser estudiante de ingeniería química y trabajar como desarrollador y editor multimedia, me gusta practicar Voleibol 🏐, como hobby me gusta la fotografía, me encanta el hecho de poder retratar un momento para siempre. Y sobre todo me gusta entender como funcionan las cosas en el mundo, soy muy curioso y por lo tanto me gusta aprender cosas nuevas cada día.
       <h3>HABILIDADES: </h3>
