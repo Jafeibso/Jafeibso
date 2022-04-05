@@ -5,7 +5,6 @@
   </h1>
       <p> Hola! Mi nombre es Javier Felipe Ibarra y soy estudiante de 5to semestre de ingeniería química 👨🏼‍🔬 en la Universidad EAN 💚 en Bogotá - Colombia 🇨🇴
        <div align="center">
-          <h3>ACERCA DE MI: </h3>
 Aparte de ser estudiante de ingeniería química y trabajar como desarrollador y editor multimedia, me gusta practicar Voleibol 🏐, como hobby me gusta la fotografía, me encanta el hecho de poder retratar un momento para siempre. Y sobre todo me gusta entender como funcionan las cosas en el mundo, soy muy curioso y por lo tanto me gusta aprender cosas nuevas cada día.
       <h3>HABILIDADES: </h3>
 Debido a mi trabajo tengo un amplio conocomiento en programas de edición audiovisual como Adobe Audition, Adobe Premiere, entre otras. Adicionalmente tengo conocimiento en desarrollo de cursos e-learning por medio de Articulate Storyline. Tengo dominio de un segundo idioma, el inglés con una certificación B2 con IELTS TEST, y me encuentro aprendiendo francés por mis propios medios.
